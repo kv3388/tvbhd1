@@ -1,13 +1,13 @@
-Ãâ·ÑµçÊÓ99Ì¨VIUTV,p2p://60.249.213.25:9900/5606a78800029cdf010e7a143fcf3c6c
-TVBJ5¸ßÇåôä´ä,p2p://60.249.213.25:9900/56093d3200031b8a08149ff055b7764a
-TVBôä´ä,p2p://60.249.213.25:9900/56093dab000b879a08167ac469dc1292
+å…è´¹ç”µè§†99å°VIUTV,p2p://60.249.213.25:9900/5606a78800029cdf010e7a143fcf3c6c
+TVBJ5é«˜æ¸…ç¿¡ç¿ ,p2p://60.249.213.25:9900/56093d3200031b8a08149ff055b7764a
+TVBç¿¡ç¿ ,p2p://60.249.213.25:9900/56093dab000b879a08167ac469dc1292
 TVBJ2,p2p://60.249.213.25:9900/5606b48a000acc8e01414c037dbb021f
-TVB»¥¶¯ĞÂÎÅ,p2p://60.249.213.25:9900/5606b5280002d5860143b31f3c555379
-TVBÃ÷Öé,p2p://60.249.213.25:9900/5606be4a0002383101675fd23c44743b
-ôä´äÌ¨,http://token.tvb.com/stream/live/hls/mobilehd_jade.smil
+TVBäº’åŠ¨æ–°é—»,p2p://60.249.213.25:9900/5606b5280002d5860143b31f3c555379
+TVBæ˜ç ,p2p://60.249.213.25:9900/5606be4a0002383101675fd23c44743b
+ç¿¡ç¿ å°,http://token.tvb.com/stream/live/hls/mobilehd_jade.smil
 J5,http://token.tvb.com/stream/live/hls/mobilehd_hdj.smil
 J2,http://token.tvb.com/stream/live/hls/mobilehd_j2.smil
-»¥¶¯ĞÂÎÅ,http://token.tvb.com/stream/live/hls/mobilehd_inews.smil
+äº’åŠ¨æ–°é—»,http://token.tvb.com/stream/live/hls/mobilehd_inews.smil
 J5,p2p://60.249.213.25:9900/56093d3200031b8a08149ff055b7764a&link=HGFDSAihgfd.ts
 J5,p2p://61.219.133.124:6009/56acb57d0002b25f20378b46558929f0
 J5,p2p://fccs.xsjiptv.com:20342/56acb57d0002b25f20378b46558929f0
@@ -16,18 +16,18 @@ J5,p2p://61.219.133.124:6009/56acb57d0002b25f20378b46558929f0.ts
 J5,p2p://60.249.213.25:9900/56093d3200031b8a08149ff055b7764a.ts
 J5,http://58.218.152.98:7726/hls/feichui.m3u8
 J5,p2p://106.186.121.94:8258/5663e68c0002d6812089769062ef2d01.ts
-ôä´äÌ¨,p2p://60.249.213.25:9900/56093dab000b879a08167ac469dc1292&link=HGFDSAihgfd.ts
-ôä´äÌ¨,p2p://106.186.121.94:8258/5663e65c000e3e7e2088bdfc6cdd768f.ts
-ôä´äÌ¨,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-ôä´äÌ¨,p2p://61.219.133.124:6009/56acb55c000a0deb20370c43489107a5
-ôä´äÌ¨,p2p://fccs.xsjiptv.com:20342/56acb55c000a0deb20370c43489107a5
-ôä´äÌ¨,rtmp://tl.allook.8686c.com/vod/jade
-ôä´äÌ¨,p2p://61.219.133.124:6009/56acb55c000a0deb20370c43489107a5.ts
-ôä´äÌ¨,p2p://60.249.213.25:9900/56093dab000b879a08167ac469dc1292.ts
-ôä´äÌ¨,http://219.232.160.161:5080/hls/bycgekwh.m3u8
-ôä´äÌ¨,p2p://61.221.233.81:9000/56093dab000b879a08167ac469dc1292
-ôä´äÌ¨,p2p://61.219.133.124:6009/56b1cad1000794c800c7358f43d461f1
-ôä´äÌ¨,p2p://60.249.213.25:9900/56093dab000b879a08167ac469dc1292&link=HGFDSAihgfd.ts
+ç¿¡ç¿ å°,p2p://60.249.213.25:9900/56093dab000b879a08167ac469dc1292&link=HGFDSAihgfd.ts
+ç¿¡ç¿ å°,p2p://106.186.121.94:8258/5663e65c000e3e7e2088bdfc6cdd768f.ts
+ç¿¡ç¿ å°,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_snstdrj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+ç¿¡ç¿ å°,p2p://61.219.133.124:6009/56acb55c000a0deb20370c43489107a5
+ç¿¡ç¿ å°,p2p://fccs.xsjiptv.com:20342/56acb55c000a0deb20370c43489107a5
+ç¿¡ç¿ å°,rtmp://tl.allook.8686c.com/vod/jade
+ç¿¡ç¿ å°,p2p://61.219.133.124:6009/56acb55c000a0deb20370c43489107a5.ts
+ç¿¡ç¿ å°,p2p://60.249.213.25:9900/56093dab000b879a08167ac469dc1292.ts
+ç¿¡ç¿ å°,http://219.232.160.161:5080/hls/bycgekwh.m3u8
+ç¿¡ç¿ å°,p2p://61.221.233.81:9000/56093dab000b879a08167ac469dc1292
+ç¿¡ç¿ å°,p2p://61.219.133.124:6009/56b1cad1000794c800c7358f43d461f1
+ç¿¡ç¿ å°,p2p://60.249.213.25:9900/56093dab000b879a08167ac469dc1292&link=HGFDSAihgfd.ts
 J2,p2p://60.249.213.25:9900/5606b48a000acc8e01414c037dbb021f&link=HGFDSAihgfd.ts
 J2,p2p://fccs.xsjiptv.com:20342/56acb56d0007730220374dff3caf39c3
 J2,p2p://61.219.133.124:6009/56acb55c000a0deb20370c43489107a5
@@ -38,43 +38,44 @@ J2,p2p://60.249.213.25:9900/5606b48a000acc8e01414c037dbb021f.ts
 J2,http://58.218.152.98:7726/hls/j2.m3u8
 J2,p2p://106.186.121.94:8258/5663e600000ac65c208755b81ccd5e54.ts
 J2,http://box.s-itv.com/flashplay/VJTVPlayer.swf?src=http://101.71.90.21:5021/live/368
-»¥¶¯ĞÂÎÅ,p2p://60.249.213.25:9900/5606b5280002d5860143b31f3c555379&link=HGFDSAihgfd.ts
-»¥¶¯ĞÂÎÅ,p2p://61.219.133.124:6009/56ca3209000e84186016ac6f0a4b0658
-»¥¶¯ĞÂÎÅ,p2p://fccs.xsjiptv.com:20342/56ca3209000e84186016ac6f0a4b0658
-»¥¶¯ĞÂÎÅ,p2p://61.219.133.124:6009/56ca3209000e84186016ac6f0a4b0658.ts
-»¥¶¯ĞÂÎÅ,p2p://60.249.213.25:9900/5606b5280002d5860143b31f3c555379.ts
-»¥¶¯ĞÂÎÅ,p2p://106.186.121.94:8258/5663e62c000b5e39208801bf5c1c0414.ts
-Ã÷ÖéÌ¨,p2p://60.249.213.25:9900/5606be4a0002383101675fd23c44743b&link=HGFDSAihgfd.ts
-Ã÷ÖéÌ¨,p2p://61.219.133.124:6009/56ca31eb000918ad601635d8214b796c
-Ã÷ÖéÌ¨,p2p://115.28.85.80:20342/56ca31eb000918ad601635d8214b796c
-Ã÷ÖéÌ¨,p2p://61.219.133.124:6009/56ca31eb000918ad601635d8214b796c.ts
-Ãâ·ÑëŠÒ•99Ì¨,p2p://60.249.213.25:9900/5606a78800029cdf010e7a143fcf3c6c&link=HGFDSAihgfd.ts
-Ãâ·ÑëŠÒ•99Ì¨,p2p://106.186.121.94:8258/56072c6100028f9b56eff60a612c3632
-Ãâ·ÑëŠÒ•99Ì¨,p2p://60.249.213.25:9900/5606a78800029cdf010e7a143fcf3c6c.ts
-Ãâ·ÑëŠÒ•99Ì¨,http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000148&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
-¸ÛÌ¨µçÊÓ31Ì¨,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-¸ÛÌ¨µçÊÓ31Ì¨,p2p://106.186.121.94:8258/563518f4000f073a0a530ad02e7e34b9.ts
-¸ÛÌ¨µçÊÓ31Ì¨,p2p://118.184.0.10:9999/5464d74b000d2cfc056ababb4829dba4.ts
-¸ÛÌ¨µçÊÓ32Ì¨,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
-¸ÛÌ¨µçÊÓ32Ì¨,p2p://106.186.121.94:8258/563519850003a3070a553e4f2e605171.ts
-¸ÛÌ¨µçÊÓ32Ì¨,p2p://118.184.0.10:9999/5464d74b00013f1e056ab7ae29a92b17.ts
-Ïã¸ÛHKTV,http://14.198.245.135:8088/hktvlive/hktv_432pb_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=82ab2c92-e15a-4b81-9c1b-2f98fbf3d596&uid=1&vid=1&mxres=720&s=f28849d9f4c57e9e93a5e77cc87c7338
-Ïã¸ÛHKTV,p2p://60.249.213.25:9900/5617bfc5000016ac36b5fa640a3d008e.ts
-Ïã¸ÛHKTV,p2p://61.221.233.81:9000/5617bfc5000016ac36b5fa640a3d008e&link=HGFDSAihgfd
-Ïã¸ÛHKTV,p2p://106.186.121.94:8258/562831d6000173aed7ec5c516c9f7d1e.ts
-Ïã¸ÛëŠÓ°Ì¨,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hkmovie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-Ïã¸ÛëŠÓ°Ì¨,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hkmovie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1.ts
-»›ÕZîlµÀ,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yylbpd_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-»›ÕZîlµÀ,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yylbpd_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1.ts
-HKCµçÓ°Ò»Ì¨HD,http://httpdvb.slave.pygdzhcs.com:13160/httpdvb?playtype=live&programid=4200000157&rate=raw&auth=no
-HKCµçÓ°Ò»Ì¨HD,http://httpdvb.slave.pygdzhcs.com:13160/httpdvb?playtype=live&programid=4200000103&rate=raw&auth=no
-HKCµçÓ°Ò»Ì¨HD,http://httpdvb.slave.pygdzhcs.com:13160/httpdvb?playtype=live&programid=4200000157&playtype=live&auth=no
-TVBĞÇºÓ,p2p://61.219.133.124:6009/56ca324d0002eeb36017b321065f67a0
-TVBĞÇºÓ,p2p://106.186.121.94:8258/5696d0790008bef291f813bd40f003cb.ts
-TVBĞÇºÓ,p2p://60.249.213.25:9900/569b5575000b70f8125932e27a55146a.ts
-TVBĞÇºÓ,p2p://60.249.213.25:9900/56eb48ce0002538009d4567c21411636
-TVB¾­µä,p2p://60.249.213.25:9900/569b5537000957a61258402b5b9f2aa4.ts
-TVB½›µä,p2p://106.186.121.94:8258/56a02fcb000b82e1b6946cc52a4729a8.ts
-TVBŠÊ˜·ĞÂÂ„Ì¨,p2p://60.249.213.25:9900/56eb4857000af0f009d287d805b76d92.ts
-TVBŠÊ˜·ĞÂÂ„Ì¨,p2p://106.186.121.94:8258/56a0306a0008d2e8b696d92e7bf30343.ts
-TVBŠÊ˜·ĞÂÂ„Ì¨,p2p://60.249.213.25:9900/569b55560009915c1258b950297d62b2.ts
+äº’åŠ¨æ–°é—»,p2p://60.249.213.25:9900/5606b5280002d5860143b31f3c555379&link=HGFDSAihgfd.ts
+äº’åŠ¨æ–°é—»,p2p://61.219.133.124:6009/56ca3209000e84186016ac6f0a4b0658
+äº’åŠ¨æ–°é—»,p2p://fccs.xsjiptv.com:20342/56ca3209000e84186016ac6f0a4b0658
+äº’åŠ¨æ–°é—»,p2p://61.219.133.124:6009/56ca3209000e84186016ac6f0a4b0658.ts
+äº’åŠ¨æ–°é—»,p2p://60.249.213.25:9900/5606b5280002d5860143b31f3c555379.ts
+äº’åŠ¨æ–°é—»,p2p://106.186.121.94:8258/5663e62c000b5e39208801bf5c1c0414.ts
+æ˜ç å°,p2p://60.249.213.25:9900/5606be4a0002383101675fd23c44743b&link=HGFDSAihgfd.ts
+æ˜ç å°,p2p://61.219.133.124:6009/56ca31eb000918ad601635d8214b796c
+æ˜ç å°,p2p://115.28.85.80:20342/56ca31eb000918ad601635d8214b796c
+æ˜ç å°,p2p://61.219.133.124:6009/56ca31eb000918ad601635d8214b796c.ts
+å…è´¹é›»è¦–99å°,p2p://60.249.213.25:9900/5606a78800029cdf010e7a143fcf3c6c&link=HGFDSAihgfd.ts
+å…è´¹é›»è¦–99å°,p2p://106.186.121.94:8258/56072c6100028f9b56eff60a612c3632
+å…è´¹é›»è¦–99å°,p2p://60.249.213.25:9900/5606a78800029cdf010e7a143fcf3c6c.ts
+å…è´¹é›»è¦–99å°,http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=TCOO4TBF1050IESRNX4CUAM02Z1TSI098K50005771W225911&programid=4200000148&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
+æ¸¯å°ç”µè§†31å°,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+æ¸¯å°ç”µè§†31å°,p2p://106.186.121.94:8258/563518f4000f073a0a530ad02e7e34b9.ts
+æ¸¯å°ç”µè§†31å°,p2p://118.184.0.10:9999/5464d74b000d2cfc056ababb4829dba4.ts
+æ¸¯å°ç”µè§†32å°,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
+æ¸¯å°ç”µè§†32å°,p2p://106.186.121.94:8258/563519850003a3070a553e4f2e605171.ts
+æ¸¯å°ç”µè§†32å°,p2p://118.184.0.10:9999/5464d74b00013f1e056ab7ae29a92b17.ts
+é¦™æ¸¯HKTV,http://14.198.245.135:8088/hktvlive/hktv_432pb_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=82ab2c92-e15a-4b81-9c1b-2f98fbf3d596&uid=1&vid=1&mxres=720&s=f28849d9f4c57e9e93a5e77cc87c7338
+é¦™æ¸¯HKTV,p2p://60.249.213.25:9900/5617bfc5000016ac36b5fa640a3d008e.ts
+é¦™æ¸¯HKTV,p2p://61.221.233.81:9000/5617bfc5000016ac36b5fa640a3d008e&link=HGFDSAihgfd
+é¦™æ¸¯HKTV,p2p://106.186.121.94:8258/562831d6000173aed7ec5c516c9f7d1e.ts
+é¦™æ¸¯é›»å½±å°,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hkmovie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+é¦™æ¸¯é›»å½±å°,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hkmovie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1.ts
+ç²µèªé »é“,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yylbpd_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+ç²µèªé »é“,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yylbpd_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1.ts
+HKCç”µå½±ä¸€HD,http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=TZ0NABVFSB8XYEO961YOH0VGZM1459869471K50009148W380797&programid=4200000103&playtoken=TZ0NABVFSB8XYEO961YOH0VGZM1459869471K50009148W380797&programid=31609PIAZGZAAAA1&verifycode=11814&rate=raw&auth=no
+HKCç”µå½±ä¸€å°HD,http://httpdvb.slave.pygdzhcs.com:13160/httpdvb?playtype=live&programid=4200000157&rate=raw&auth=no
+HKCç”µå½±ä¸€å°HD,http://httpdvb.slave.pygdzhcs.com:13160/httpdvb?playtype=live&programid=4200000103&rate=raw&auth=no
+HKCç”µå½±ä¸€å°HD,http://httpdvb.slave.pygdzhcs.com:13160/httpdvb?playtype=live&programid=4200000157&playtype=live&auth=no
+TVBæ˜Ÿæ²³,p2p://61.219.133.124:6009/56ca324d0002eeb36017b321065f67a0
+TVBæ˜Ÿæ²³,p2p://106.186.121.94:8258/5696d0790008bef291f813bd40f003cb.ts
+TVBæ˜Ÿæ²³,p2p://60.249.213.25:9900/569b5575000b70f8125932e27a55146a.ts
+TVBæ˜Ÿæ²³,p2p://60.249.213.25:9900/56eb48ce0002538009d4567c21411636
+TVBç»å…¸,p2p://60.249.213.25:9900/569b5537000957a61258402b5b9f2aa4.ts
+TVBç¶“å…¸,p2p://106.186.121.94:8258/56a02fcb000b82e1b6946cc52a4729a8.ts
+TVBå¨›æ¨‚æ–°èå°,p2p://60.249.213.25:9900/56eb4857000af0f009d287d805b76d92.ts
+TVBå¨›æ¨‚æ–°èå°,p2p://106.186.121.94:8258/56a0306a0008d2e8b696d92e7bf30343.ts
+TVBå¨›æ¨‚æ–°èå°,p2p://60.249.213.25:9900/569b55560009915c1258b950297d62b2.ts
